@@ -61,7 +61,6 @@ store/
 ```
 
 ---
-
 ## 🚀 Installation
 
 ```bash
